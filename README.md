@@ -1,6 +1,6 @@
 # Python Code for Convolutional Neural Netwrok (CNN) using Tensorflow
 Find attached the python script for CNN using API keras through tensorflow version 2.0.0. From the tensorflow version 2.0.0 onwards keras is now offically a part of tensorflow as API.
-In the code, I am using the MNIST dataset which is provided by keras daatsets. This is the data of around 10,000 images in which each image containss a number between 0 to 9.
+In the code, I am using the MNIST dataset which is provided by keras daatsets. This is the data of around 60,000 images in which each image containss a number between 0 to 9.
 
 The objective is to train the model through Convulutional and Dense layers such that the model can predict the number of incoming new images.
 
